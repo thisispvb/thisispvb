@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there, I’m Philip ✌️
 
 <!--
 **thisispvb/thisispvb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m a senior software engineer who has spent nearly two decades building web applications and the platforms behind them. Across Spotify, Sotheby’s, dbt Labs, and Radix ILS, I’ve helped turn complex domains into products that are easier to understand, operate, and evolve—from artist tools and auction workflows to data-development, reinsurance, and investment systems. My work is rooted in frontend architecture and product engineering, but it regularly reaches into APIs, data models, cloud infrastructure, observability, delivery pipelines, and developer tooling. I’m most energized by the connective work: establishing shared patterns, making complicated interactions feel clear, improving performance and accessibility, and leaving systems easier for the next person to change. I’m also exploring how AI can strengthen engineering practice—not simply by generating code, but by helping teams preserve context, sharpen decisions, review changes, and work more deliberately. Above all, I want to advance the web through software that is accessible, fast, resilient, and maintainable.
